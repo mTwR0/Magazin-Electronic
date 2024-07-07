@@ -69,4 +69,4 @@ Handles the creation and management of user accounts.
   - Methods for creating and validating user accounts.
 
 ## Acknowledgements
-Special thanks to my friends in college ( Vik , Anca , Alex )  who contributed to the development of this project.
+Special thanks to my friends in college ( Vik , Anca , Alex, Ana )  who contributed to the development of this project.
